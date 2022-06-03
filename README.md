@@ -34,7 +34,7 @@ As non-face-to-face activities have been activated due to the coronavirus infect
 **한창희**   
 1.Student ID: 20171719   
 2.e-mail: sjrnfl0412@kookmin.ac.kr   
-3.Role: leader, back-end & server
+3.Role: leader, back-end & server, algorithm
 ```
 ---------------------------------------
 ### 5. 사용법
